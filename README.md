@@ -1,5 +1,5 @@
 ## ANN for Regression with TensorFlow and Keras
-- This project demonstrates the development of an Artificial Neural Network (**ANN**) to predict a target variable based on multiple features using TensorFlow and Keras. The dataset (_Folds5x2_pp.xlsx_) contains features such as temperature, pressure, and humidity, with the target variable representing energy output.
+- This project demonstrates the development of an Artificial Neural Network (**ANN**) to predict a target variable based on multiple features using TensorFlow and Keras. The dataset (**_Folds5x2_pp.xlsx_**) contains features such as temperature, pressure, and humidity, with the target variable representing energy output.
 
 1. **Data Preprocessing**: The dataset is loaded, and features (**X**) and target values (**y**) are extracted. The data is split into training and test sets using an **80-20** split.
 2. **Building the ANN**:
